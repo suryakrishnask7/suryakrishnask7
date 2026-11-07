@@ -19,9 +19,9 @@ I enjoy turning random ideas into working products, exploring how systems work u
 ## ⚡ About Me
 
 <div align="center">
-
-<img src="assets/about-terminal.svg" width="100%" alt="Surya's macOS Terminal profile"/>
-
+  <img src="assets/about-terminal.svg"
+       width="100%"
+       alt="Surya's terminal"/>
 </div>
 
 ## 🚀 Featured Projects

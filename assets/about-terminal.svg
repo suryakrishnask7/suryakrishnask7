@@ -1,8 +1,9 @@
+```xml
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="900" height="470" viewBox="0 0 900 470">
+     width="900" height="490" viewBox="0 0 900 490">
 
-  <rect width="900" height="470" rx="14" fill="#17191F"
-        stroke="#343740"/>
+  <rect width="900" height="490" rx="14"
+        fill="#17191F" stroke="#343740"/>
 
   <!-- macOS title bar -->
   <path d="M14 0 H886 Q900 0 900 14 V48 H0 V14 Q0 0 14 0"
@@ -14,54 +15,55 @@
 
   <text x="450" y="29" text-anchor="middle"
         fill="#C3C5CE" font-family="Arial"
-        font-size="13">surya — zsh — 100 × 30</text>
+        font-size="13">elsewhere — zsh</text>
 
   <!-- Terminal content -->
   <g font-family="SFMono-Regular, Consolas, monospace"
      font-size="16">
 
     <text x="30" y="91" fill="#A6E3A1">
-      surya@MacBook ~ % whoami
+      ~/elsewhere % whoami
     </text>
 
-    <text x="30" y="128" fill="#FFFFFF"
-          font-size="25" font-weight="bold">
+    <text x="30" y="130" fill="#FFFFFF"
+          font-size="27" font-weight="bold">
       Surya Krishna
     </text>
 
-    <text x="30" y="157" fill="#BAC2DE">
+    <text x="30" y="160" fill="#BAC2DE">
       Software Developer · CS Student · Game Dev Enthusiast
     </text>
 
-    <text x="30" y="207" fill="#A6E3A1">
-      surya@MacBook ~ % cat about.txt
+    <text x="30" y="211" fill="#A6E3A1">
+      ~/elsewhere % cat about.txt
     </text>
 
-    <text x="30" y="240" fill="#CDD6F4">
-      Curious mind. Endless ideas. Building software,
+    <text x="30" y="246" fill="#CDD6F4">
+      Curious mind, endless ideas. Building software,
     </text>
-    <text x="30" y="265" fill="#CDD6F4">
-      exploring game mechanics and occasionally debugging
+    <text x="30" y="273" fill="#CDD6F4">
+      exploring game mechanics and chasing interesting
     </text>
-    <text x="30" y="290" fill="#CDD6F4">
-      things I shouldn't have touched.
-    </text>
-
-    <text x="30" y="337" fill="#A6E3A1">
-      surya@MacBook ~ % ls interests/
+    <text x="30" y="300" fill="#CDD6F4">
+      problems down unexpected rabbit holes.
     </text>
 
-    <text x="30" y="370" fill="#89B4FA">
+    <text x="30" y="350" fill="#A6E3A1">
+      ~/elsewhere % ls interests/
+    </text>
+
+    <text x="30" y="385" fill="#89B4FA">
       ├── Full-Stack Development
     </text>
-    <text x="30" y="394" fill="#89B4FA">
+    <text x="30" y="411" fill="#89B4FA">
       ├── Game Development
     </text>
-    <text x="30" y="418" fill="#89B4FA">
+    <text x="30" y="437" fill="#89B4FA">
       ├── AI &amp; LLMs
     </text>
-    <text x="30" y="442" fill="#89B4FA">
+    <text x="30" y="463" fill="#89B4FA">
       └── Music &amp; Everything In Between
     </text>
   </g>
 </svg>
+```
