@@ -20,35 +20,9 @@ I enjoy turning random ideas into working products, exploring how systems work u
 
 <div align="center">
 
-```bash
-surya@dev-machine:~$ whoami
-
-Surya Krishna
-Software Developer | CS Student | Game Development Enthusiast
-
-surya@dev-machine:~$ cat about.txt
-
-Curious mind constantly chasing new ideas, building software,
-experimenting with game mechanics, and occasionally wondering
-why something worked before I touched it.
-
-surya@dev-machine:~$ ls interests/
-
-├── Full-Stack Development
-├── Game Development
-├── AI & LLMs
-├── DSA & Problem Solving
-└── Music & Everything In Between
-
-surya@dev-machine:~$ cat current_status.log
-
-Building things, breaking things, learning things.
-
-surya@dev-machine:~$ _
-```
+<img src="assets/about-terminal.svg" width="100%" alt="Surya's macOS Terminal profile"/>
 
 </div>
----
 
 ## 🚀 Featured Projects
 
