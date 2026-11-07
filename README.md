@@ -18,35 +18,36 @@ I enjoy turning random ideas into working products, exploring how systems work u
 
 ## ⚡ About Me
 
-```javascript
-const surya = {
-    role: "Software Developer",
-    education: "Computer Science",
-    languages: ["Java", "Python", "C"],
-    interests: [
-        "Full-Stack Development",
-        "Game Development",
-        "AI & LLM Applications",
-        "System Design",
-        "Problem Solving"
-    ],
-    currentlyExploring: [
-        "Game Development",
-        "Cloud & DevOps",
-        "AI Engineering"
-    ],
-    philosophy: "Build first. Figure it out along the way.",
-    status: "Always building something."
-};
+<div align="center">
+
+```bash
+surya@dev-machine:~$ whoami
+
+Surya Krishna
+Software Developer | CS Student | Game Development Enthusiast
+
+surya@dev-machine:~$ cat about.txt
+
+Curious mind constantly chasing new ideas, building software,
+experimenting with game mechanics, and occasionally wondering
+why something worked before I touched it.
+
+surya@dev-machine:~$ ls interests/
+
+├── Full-Stack Development
+├── Game Development
+├── AI & LLMs
+├── DSA & Problem Solving
+└── Music & Everything In Between
+
+surya@dev-machine:~$ cat current_status.log
+
+Building things, breaking things, learning things.
+
+surya@dev-machine:~$ _
 ```
 
-- 💻 I enjoy building full-stack applications from scratch.
-- 🎮 Passionate about game development, game mechanics and interactive experiences.
-- 🤖 Interested in AI, LLMs and practical AI-powered products.
-- 🧩 Love solving problems through DSA, hackathons and CTFs.
-- 🛠️ Prefer learning technologies by actually building with them.
-- 🎧 Occasionally turn my obsession with music into software projects.
-
+</div>
 ---
 
 ## 🚀 Featured Projects
@@ -159,8 +160,8 @@ A Spotify-powered application that transforms listening history into personalize
 
 <div align="center">
 
-### `while (alive) { keepBuilding(); }`
+*"Fueled by coffee, driven by curiosity, and permanently stuck on the next track."*
 
-*Built with curiosity, caffeine, and questionable amounts of debugging.*
+<sub>— Surya, probably at 3 AM ☕🎧</sub>
 
 </div>
