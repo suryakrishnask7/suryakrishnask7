@@ -19,9 +19,11 @@ I enjoy turning random ideas into working products, exploring how systems work u
 ## ⚡ About Me
 
 <div align="center">
-  <img src="assets/about-terminal.svg"
-       width="100%"
-       alt="Surya's terminal"/>
+  <img
+    src="https://raw.githubusercontent.com/suryakrishnask7/suryakrishnask7/main/assets/about-terminal.svg"
+    alt="Surya's macOS-style terminal"
+    width="100%"
+  />
 </div>
 
 ## 🚀 Featured Projects
