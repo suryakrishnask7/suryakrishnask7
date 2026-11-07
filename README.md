@@ -117,7 +117,6 @@ A Spotify-powered application that transforms listening history into personalize
 | Game Development | Game mechanics, interactive worlds and gameplay systems |
 | AI Engineering | LLMs, AI integrations and intelligent applications |
 | Systems & Backend | APIs, databases, networking and architecture |
-| Cloud & DevOps | Docker, CI/CD and deployment |
 | Problem Solving | DSA, algorithms and competitive challenges |
 | Cybersecurity | CTFs, web exploitation and vulnerability research |
 
@@ -136,9 +135,9 @@ A Spotify-powered application that transforms listening history into personalize
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryakrishnask7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=suryakrishnask7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakrishnask7&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=suryakrishnask7&layout=compact&theme=transparent&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=suryakrishnask7&theme=transparent&hide_border=true)
 
